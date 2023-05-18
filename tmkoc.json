@@ -23,9 +23,16 @@
     },
     {
       "episode": "Episode 79 : Tappu gets Married",
-      "url": " https://www.youtube.com/watch?v=NsDNx6-umwc&ab_channel=TaarakMehtaKaOoltahChashmah",
+      "url": "https://www.youtube.com/watch?v=NsDNx6-umwc&ab_channel=TaarakMehtaKaOoltahChashmah",
       "youtubeId" : "NsDNx6-umwc"
+    },
+    {
+      "episode": "Episode 611 : Bhide as Mango Seller",
+      "url": "https://www.youtube.com/watch?v=bu5RZHsiuLk&ab_channel=TaarakMehtaKaOoltahChashmahEpisodes",
+      "youtubeId" : "bu5RZHsiuLk"
     }
+        
+       
        
   ]
 }
