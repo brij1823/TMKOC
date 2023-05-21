@@ -19,7 +19,7 @@ except Exception as e:
 
 # Check if 'episodes' key exists in the loaded data
 if 'episodes' not in data:
-    print("Jaya No 'episodes' key found in the JSON data.")
+    print("Daya No 'episodes' key found in the JSON data.")
     exit()
 
 # Sort the episodes by episode number
