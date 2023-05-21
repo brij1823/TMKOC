@@ -1,6 +1,6 @@
 # TMKOC
 
-![TMKOC Logo](https://github.com/ranjith-acharya/TMKOC/raw/main/assets/TMKOC_LOGO.png){:height="200px" width="200px"}
+![TMKOC Logo](https://github.com/ranjith-acharya/TMKOC/raw/main/assets/TMKOC_LOGO.png)
 
 ## Introduction
 
