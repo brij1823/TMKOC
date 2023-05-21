@@ -76,10 +76,15 @@
       "url": "https://www.youtube.com/watch?v=t-xMOWGD3vc",
       "youtubeId": "t-xMOWGD3vc"
     },
-        {
+    {
       "episode": "Episode 555: Mahashivratri Special",
       "url": "https://www.youtube.com/watch?v=OemdoOGh2uk",
       "youtubeId": "OemdoOGh2uk"
-    }
+    },
+    {
+        "episode": "Episode 233: Jethalal's Haircut",
+        "url": "https://www.youtube.com/watch?v=hERv2KGpXfo",
+        "youtubeId": "hERv2KGpXfo"
+      }
   ]
 }
