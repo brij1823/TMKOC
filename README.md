@@ -1,6 +1,7 @@
 # TMKOC
 
 ![TMKOC Logo](https://github.com/ranjith-acharya/TMKOC/raw/main/assets/TMKOC_LOGO.png)
+{:height="200px" width="200px"}
 
 ## Introduction
 
@@ -13,28 +14,6 @@ TMKOC (Taarak Mehta Ka Ooltah Chashmah) is a popular Indian television sitcom th
 - Quotes: Browse through memorable quotes from the show.
 - Trivia: Discover interesting facts and trivia about TMKOC.
 - Behind the Scenes: Explore behind-the-scenes photos and videos.
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
-## How to Use
-
-1. Clone the repository:
-
-```
-git clone https://github.com/ranjith-acharya/TMKOC.git
-```
-
-2. Navigate to the project directory:
-
-```
-cd TMKOC
-```
-
-3. Open the `index.html` file in your preferred web browser.
 
 ## Contributing
 
@@ -50,15 +29,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 - [TMKOC Official Website](https://www.sabtv.com/en_in/show/taarak-mehta-ka-ooltah-chashmah/6)
 - [TMKOC Wikipedia Page](https://en.wikipedia.org/wiki/Taarak_Mehta_Ka_Ooltah_Chashmah)
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/ranjith-acharya/TMKOC/blob/main/LICENSE).
-
-## Contact
-
-For any questions or inquiries, please contact the project maintainer:
-
-Ranjith Acharya
-- Email: ranjith.acharya@example.com
-- GitHub: [ranjith-acharya](https://github.com/ranjith-acharya)
