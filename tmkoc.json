@@ -62,6 +62,11 @@
       "youtubeId": "3HRokrRBWLA"
     },
     {
+        "episode": "Babita Ne Ki Jethal ki team ko Sponsor",
+        "url": "https://youtu.be/Qy8DL9OujMA",
+        "youtubeId": "Qy8DL9OujMA"
+      },
+    {
       "episode": "Episode 913: Bhide can't get rid of his mustache",
       "url": "https://www.youtube.com/watch?v=6rGlS31yRZ0",
       "youtubeId": "6rGlS31yRZ0"
@@ -76,10 +81,25 @@
       "url": "https://www.youtube.com/watch?v=t-xMOWGD3vc",
       "youtubeId": "t-xMOWGD3vc"
     },
-        {
+    {
+        "episode": "Episode 3299: Kachori Lover",
+        "url": "https://youtu.be/jKTZo5uH6Vo",
+        "youtubeId": "jKTZo5uH6Vo"
+      },
+    {
+        "episode": "Episode 3740:Taarak Mehta Ka Ooltah Chashmah" ,
+        "url": "https://youtu.be/OTPiWp7riZU",
+        "youtubeId": "OTPiWp7riZU"
+      },
+      {
+        "episode": "Episode 3741: Babita and Jetha wins bumper prize ",
+        "url": "https://youtu.be/d9M5be-Xndk",
+        "youtubeId": "d9M5be-Xndk"
+      }, 
+    {
       "episode": "Episode 555: Mahashivratri Special",
       "url": "https://www.youtube.com/watch?v=OemdoOGh2uk",
       "youtubeId": "OemdoOGh2uk"
     }
-  ]
-}
+    ]
+  }
